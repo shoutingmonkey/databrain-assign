@@ -1,0 +1,12 @@
+.header_container {
+  height: 70px;
+  background-color: black;
+  display: flex;
+  padding: 10px;
+}
+
+.header__text {
+  color: white;
+  font-size: 2rem;
+  align-self: center;
+}
